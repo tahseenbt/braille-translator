@@ -1,3 +1,3 @@
 # A Braille Translator
 
-This is a French Braille translator. 
+This is a Braille translator supporting both French and English characters. 
